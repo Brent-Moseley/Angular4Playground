@@ -22,3 +22,4 @@ export class HeroService {
 
 // https://angular.io/tutorial/toh-pt4
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then
+// https://angular.io/guide/lifecycle-hooks   Lifecyle hooks
